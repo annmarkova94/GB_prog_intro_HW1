@@ -13,5 +13,5 @@ if (number2 > number1)
     result2 = number1;
 }
 
-Console.Write(result1 +" is larger than " + result2);
+Console.Write(result1 + " is larger than " + result2);
 
