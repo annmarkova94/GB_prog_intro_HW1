@@ -1,0 +1,15 @@
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW1\Task8_allEven\obj\Debug\net6.0\Task8_allEven.csproj.AssemblyReference.cache
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW1\Task8_allEven\obj\Debug\net6.0\Task8_allEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW1\Task8_allEven\obj\Debug\net6.0\Task8_allEven.AssemblyInfoInputs.cache
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW1\Task8_allEven\obj\Debug\net6.0\Task8_allEven.AssemblyInfo.cs
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW1\Task8_allEven\obj\Debug\net6.0\Task8_allEven.csproj.CoreCompileInputs.cache
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW1\Task8_allEven\bin\Debug\net6.0\Task8_allEven.exe
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW1\Task8_allEven\bin\Debug\net6.0\Task8_allEven.deps.json
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW1\Task8_allEven\bin\Debug\net6.0\Task8_allEven.runtimeconfig.json
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW1\Task8_allEven\bin\Debug\net6.0\Task8_allEven.dll
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW1\Task8_allEven\bin\Debug\net6.0\Task8_allEven.pdb
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW1\Task8_allEven\obj\Debug\net6.0\Task8_allEven.dll
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW1\Task8_allEven\obj\Debug\net6.0\refint\Task8_allEven.dll
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW1\Task8_allEven\obj\Debug\net6.0\Task8_allEven.pdb
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW1\Task8_allEven\obj\Debug\net6.0\Task8_allEven.genruntimeconfig.cache
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW1\Task8_allEven\obj\Debug\net6.0\ref\Task8_allEven.dll
