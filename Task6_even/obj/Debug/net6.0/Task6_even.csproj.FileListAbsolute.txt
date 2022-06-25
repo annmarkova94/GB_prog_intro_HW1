@@ -1,0 +1,15 @@
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW1\Task6_even\bin\Debug\net6.0\Task6_even.exe
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW1\Task6_even\bin\Debug\net6.0\Task6_even.deps.json
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW1\Task6_even\bin\Debug\net6.0\Task6_even.runtimeconfig.json
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW1\Task6_even\bin\Debug\net6.0\Task6_even.dll
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW1\Task6_even\bin\Debug\net6.0\Task6_even.pdb
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW1\Task6_even\obj\Debug\net6.0\Task6_even.csproj.AssemblyReference.cache
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW1\Task6_even\obj\Debug\net6.0\Task6_even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW1\Task6_even\obj\Debug\net6.0\Task6_even.AssemblyInfoInputs.cache
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW1\Task6_even\obj\Debug\net6.0\Task6_even.AssemblyInfo.cs
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW1\Task6_even\obj\Debug\net6.0\Task6_even.csproj.CoreCompileInputs.cache
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW1\Task6_even\obj\Debug\net6.0\Task6_even.dll
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW1\Task6_even\obj\Debug\net6.0\refint\Task6_even.dll
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW1\Task6_even\obj\Debug\net6.0\Task6_even.pdb
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW1\Task6_even\obj\Debug\net6.0\Task6_even.genruntimeconfig.cache
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW1\Task6_even\obj\Debug\net6.0\ref\Task6_even.dll
